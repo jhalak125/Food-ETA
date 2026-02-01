@@ -1,6 +1,7 @@
-geopy>=2.3.0
-xgboost>=1.7.6
-scikit-learn>=1.4.0
-numpy
+streamlit>=1.19.0
 pandas
-streamlit
+numpy
+scikit-learn>=1.4.0
+xgboost
+geopy
+altair>=6.0.0
