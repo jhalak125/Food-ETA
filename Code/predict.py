@@ -5,7 +5,7 @@ import pickle
 
 def predict(X):
     # Load the model and scaler from the saved file
-    with open(str(Path(__file__).parents[1] / 'code/model.pickle'), 'rb') as f:
+    with open(str(Path(__file__).parents[1] / 'Code/model.pickle'), 'rb') as f:
         model, label_encoders, scaler = pickle.load(f)
 
     main.cleaning_steps(X)  # Perform Cleaning
