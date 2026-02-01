@@ -1,9 +1,9 @@
 # 🍔 FoodETA – Food Delivery Time Prediction App
 
 FoodETA is a Machine Learning–based web application that predicts the **estimated food delivery time (ETA)** based on order details, delivery person information, location, city conditions, traffic density, and weather conditions.  
-The application is built using **Python, XGBoost, and Streamlit**. 👉 [Live Streamlit App]([https://your-app-link.streamlit.app](https://food-eta-ht74mnog6imxqfd9wby3nf.streamlit.app/))
+The application is built using **Python, XGBoost, and Streamlit**.  
 
-
+🔗 **Live App:** [Click here to try FoodETA](https://food-eta-ht74mnog6imxqfd9wby3nf.streamlit.app/)
 
 ---
 
